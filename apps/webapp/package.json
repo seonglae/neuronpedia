@@ -107,7 +107,7 @@
     "neuronpedia-autointerp-client": "^1.0.0",
     "neuronpedia-inference-client": "^1.2.0",
     "next": "^14.2.23",
-    "next-auth": "^4.22.1",
+    "next-auth": "^4.24.12",
     "next-mdx-remote": "^5.0.0",
     "next-nprogress-bar": "^2.3.11",
     "next-swagger-doc": "^0.4.0",
