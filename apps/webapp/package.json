@@ -89,7 +89,7 @@
     "d3": "^7.9.0",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
-    "diff": "^5.2.0",
+    "diff": "^8.0.3",
     "dotenv": "^16.4.5",
     "eventsource-parser": "^3.0.0",
     "focus-trap-react": "^10.1.4",
